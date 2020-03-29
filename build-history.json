@@ -1,1 +1,1 @@
-{"LastBuildTime": 1585482884, "LastBuildReason": ["master got pushed", "builder is updated need to rebuild all images"], "LastBuildStatus": {"hub.examples.mwu_encoder": false}, "BuilderRevision": "bd3fb88", "Images": {"hub.examples.mwu_encoder": []}}
+{"LastBuildTime": 1585483226, "LastBuildReason": ["master got pushed", "builder is updated need to rebuild all images"], "LastBuildStatus": {"hub.examples.mwu_encoder": false}, "BuilderRevision": "31ffef9", "Images": {"hub.examples.mwu_encoder": []}}
