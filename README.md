@@ -1,5 +1,8 @@
 # Jina Hub Status
 
+[![CD](https://github.com/jina-ai/jina-hub/workflows/CD/badge.svg?branch=master)](https://github.com/jina-ai/jina-hub/actions?query=workflow%3ACD)
+![Hub Images](hub-stat.svg)
+
 This repository shows the build status of the Jina Hub. It gets updated when [Jina Hub](https://github.com/jina-ai/jina-hub/) is modified and triggered image rebuild.
 
 <!-- START_BUILD_BADGE --><!-- END_BUILD_BADGE -->
