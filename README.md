@@ -7,6 +7,25 @@ This repository shows the build status of the Jina Hub. It gets updated when [Ji
 
 <!-- START_BUILD_BADGE --><!-- END_BUILD_BADGE -->
 
+## Last Build at: 2020-05-06 07:56:24 
+
+**Images**
+
+[![hub.examples.mwu_encoder](https://img.shields.io/badge/hub.examples.mwu__encoder-success-success?style=flat-square)](https://hub.docker.com/repository/docker/jinaai/hub.examples.mwu_encoder)
+[![hub.executors.encoders.nlp.transformers-pytorch](https://img.shields.io/badge/hub.executors.encoders.nlp.transformers--pytorch-pending-yellow?style=flat-square)](https://hub.docker.com/repository/docker/jinaai/hub.executors.encoders.nlp.transformers-pytorch)
+[![hub.executors.encoders.nlp.transformers-hitscir](https://img.shields.io/badge/hub.executors.encoders.nlp.transformers--hitscir-success-success?style=flat-square)](https://hub.docker.com/repository/docker/jinaai/hub.executors.encoders.nlp.transformers-hitscir)
+[![hub.executors.encoders.image.torchvision-mobilenet_v2](https://img.shields.io/badge/hub.executors.encoders.image.torchvision--mobilenet__v2-success-success?style=flat-square)](https://hub.docker.com/repository/docker/jinaai/hub.executors.encoders.image.torchvision-mobilenet_v2)
+
+<details>
+
+<summary>Reason</summary>
+
+master got pushed
+
+{'/home/runner/work/jina-hub/jina-hub/hub/examples/mwu_encoder', '/home/runner/work/jina-hub/jina-hub/hub/executors/encoders/nlp/transformers-pytorch'} are updated and need to be rebuilt
+
+</details>
+
 ## Last Build at: 2020-05-03 09:48:51 
 
 **Images**
