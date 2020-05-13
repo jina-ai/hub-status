@@ -7,6 +7,23 @@ This repository shows the build status of the Jina Hub. It gets updated when [Ji
 
 <!-- START_BUILD_BADGE --><!-- END_BUILD_BADGE -->
 
+## Last Build at: 2020-05-13 13:39:38 
+
+**Images**
+
+[![hub.hub.executors.encoders.image.torchvision-mobilenet_v2](https://img.shields.io/badge/hub.hub.executors.encoders.image.torchvision--mobilenet__v2-success-success?style=flat-square)](https://hub.docker.com/repository/docker/jinaai/hub.hub.executors.encoders.image.torchvision-mobilenet_v2)
+[![hub.hub.executors.encoders.nlp.transformers-hitscir](https://img.shields.io/badge/hub.hub.executors.encoders.nlp.transformers--hitscir-success-success?style=flat-square)](https://hub.docker.com/repository/docker/jinaai/hub.hub.executors.encoders.nlp.transformers-hitscir)
+[![hub.hub.executors.encoders.nlp.transformers-pytorch](https://img.shields.io/badge/hub.hub.executors.encoders.nlp.transformers--pytorch-success-success?style=flat-square)](https://hub.docker.com/repository/docker/jinaai/hub.hub.executors.encoders.nlp.transformers-pytorch)
+[![hub.hub.examples.mwu_encoder](https://img.shields.io/badge/hub.hub.examples.mwu__encoder-success-success?style=flat-square)](https://hub.docker.com/repository/docker/jinaai/hub.hub.examples.mwu_encoder)
+
+<details>
+
+<summary>Reason</summary>
+
+{'/home/runner/work/hub-builder/hub-builder/hub/hub/executors/encoders/image/torchvision-mobilenet_v2', '/home/runner/work/hub-builder/hub-builder/hub/hub/executors/encoders/nlp/transformers-hitscir', '/home/runner/work/hub-builder/hub-builder/hub/hub/executors/encoders/nlp/transformers-pytorch', '/home/runner/work/hub-builder/hub-builder/hub/hub/examples/mwu_encoder'} updated due to builder was updated.
+
+</details>
+
 ## Last Build at: 2020-05-13 12:55:16 
 
 **Images**
