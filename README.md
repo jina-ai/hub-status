@@ -7,6 +7,23 @@ This repository shows the build status of the Jina Hub. It gets updated when [Ji
 
 <!-- START_BUILD_BADGE --><!-- END_BUILD_BADGE -->
 
+## Last Build at: 2020-05-14 14:39:14 
+
+**Images**
+
+[![hub.hub.examples.mwu_encoder](https://img.shields.io/badge/hub.hub.examples.mwu__encoder-success-success?style=flat-square)](https://hub.docker.com/repository/docker/jinaai/hub.hub.examples.mwu_encoder)
+[![hub.hub.executors.encoders.nlp.transformers-pytorch](https://img.shields.io/badge/hub.hub.executors.encoders.nlp.transformers--pytorch-success-success?style=flat-square)](https://hub.docker.com/repository/docker/jinaai/hub.hub.executors.encoders.nlp.transformers-pytorch)
+[![hub.hub.executors.encoders.image.torchvision-mobilenet_v2](https://img.shields.io/badge/hub.hub.executors.encoders.image.torchvision--mobilenet__v2-success-success?style=flat-square)](https://hub.docker.com/repository/docker/jinaai/hub.hub.executors.encoders.image.torchvision-mobilenet_v2)
+[![hub.hub.executors.encoders.nlp.transformers-hitscir](https://img.shields.io/badge/hub.hub.executors.encoders.nlp.transformers--hitscir-success-success?style=flat-square)](https://hub.docker.com/repository/docker/jinaai/hub.hub.executors.encoders.nlp.transformers-hitscir)
+
+<details>
+
+<summary>Reason</summary>
+
+builder update
+
+</details>
+
 ## Last Build at: 2020-05-14 03:47:06 
 
 **Images**
