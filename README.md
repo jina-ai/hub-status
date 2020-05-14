@@ -7,6 +7,24 @@ This repository shows the build status of the Jina Hub. It gets updated when [Ji
 
 <!-- START_BUILD_BADGE --><!-- END_BUILD_BADGE -->
 
+## Last Build at: 2020-05-14 22:42:19 
+
+**Images**
+
+[![hub.hub.executors.encoders.nlp.transformers-pytorch](https://img.shields.io/badge/hub.hub.executors.encoders.nlp.transformers--pytorch-fail-critical?style=flat-square)](https://hub.docker.com/repository/docker/jinaai/hub.hub.executors.encoders.nlp.transformers-pytorch)
+[![hub.hub.executors.encoders.nlp.transformers-hitscir](https://img.shields.io/badge/hub.hub.executors.encoders.nlp.transformers--hitscir-success-success?style=flat-square)](https://hub.docker.com/repository/docker/jinaai/hub.hub.executors.encoders.nlp.transformers-hitscir)
+[![hub.hub.executors.encoders.image.torchvision-mobilenet_v2](https://img.shields.io/badge/hub.hub.executors.encoders.image.torchvision--mobilenet__v2-fail-critical?style=flat-square)](https://hub.docker.com/repository/docker/jinaai/hub.hub.executors.encoders.image.torchvision-mobilenet_v2)
+[![hub.hub.examples.simple_python](https://img.shields.io/badge/hub.hub.examples.simple__python-success-success?style=flat-square)](https://hub.docker.com/repository/docker/jinaai/hub.hub.examples.simple_python)
+[![hub.hub.examples.mwu_encoder](https://img.shields.io/badge/hub.hub.examples.mwu__encoder-success-success?style=flat-square)](https://hub.docker.com/repository/docker/jinaai/hub.hub.examples.mwu_encoder)
+
+<details>
+
+<summary>Reason</summary>
+
+builder update
+
+</details>
+
 ## Last Build at: 2020-05-14 21:03:41 
 
 **Images**
