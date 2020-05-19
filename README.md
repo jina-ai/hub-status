@@ -7,6 +7,20 @@ This repository shows the build status of the Jina Hub. It gets updated when [Ji
 
 <!-- START_BUILD_BADGE --><!-- END_BUILD_BADGE -->
 
+## Last Build at: 2020-05-19 17:14:55 
+
+**Images**
+
+
+
+<details>
+
+<summary>Reason</summary>
+
+builder update
+
+</details>
+
 ## Last Build at: 2020-05-19 12:19:10 
 
 **Images**
